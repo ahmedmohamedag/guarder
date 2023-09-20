@@ -4,7 +4,7 @@
 
 > [Preview Live](https://ahmedmohamedag.github.io/guarder/)
 
-> [Preview Live 2](ahmedmohamed.free.nf)
+> [Preview Live 2](http://ahmedmohamed.free.nf/?i=1)
 
 > [Preview Code HTML](https://github.com/ahmedmohamedag/guarder/blob/main/index.html)
 
